@@ -1,0 +1,1 @@
+Ne pas enregistrer les passages des robots des moteurs de recherche (historique et visites)

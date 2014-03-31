@@ -1,0 +1,1 @@
+Do not log visits from search engine robots (history and hits)
