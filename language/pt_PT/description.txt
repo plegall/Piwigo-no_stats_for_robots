@@ -1,0 +1,1 @@
+Não registar visitas de robôs de busca (histórial e cliques)
