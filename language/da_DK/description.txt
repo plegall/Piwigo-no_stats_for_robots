@@ -1,0 +1,1 @@
+Tilføj ikke besøg fra søgemaskiners robotter til loggen (historik og hits).
