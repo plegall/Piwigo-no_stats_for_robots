@@ -1,0 +1,1 @@
+No registra las visitas de los robots de buscadores (historial y entradas).
