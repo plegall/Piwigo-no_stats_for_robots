@@ -1,0 +1,2 @@
+Do not log visits from search engine robots (history and hits)
+Nie loguj odwiedzin robotów wyszukiwarek (historia i odwiedziny)
