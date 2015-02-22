@@ -1,0 +1,1 @@
+Modul pro zamezení zobrazování počtu přístupů prohledávacích robotů (historie a přístupy) ve statistikách návštěv vaší fotogalerie.
