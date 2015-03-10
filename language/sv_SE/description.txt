@@ -1,0 +1,1 @@
+Logga inte besök från sökmotorernas robotar (historia och träffar)
