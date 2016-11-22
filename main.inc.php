@@ -23,6 +23,7 @@ $bots = array(
   'Slurp',
   'BLEXBot',
   'VoilaBot',
+  'MegaIndex',
   );
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
