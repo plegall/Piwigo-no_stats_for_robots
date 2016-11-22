@@ -24,6 +24,7 @@ $bots = array(
   'BLEXBot',
   'VoilaBot',
   'MegaIndex',
+  'MJ12bot',
   );
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
