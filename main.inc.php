@@ -40,6 +40,19 @@ $bots = array(
   'DuckDuckBot',
   'AynidBot',
   'Heritrix',
+  'SemrushBot',
+  'DomainCrawler',
+  'DotBot',
+  'exensa',
+  'OpenLinkProfiler',
+  'YisouSpider',
+  'GarlikCrawler',
+  'UptimeRobot',
+  'Exalead',
+  'Riddler',
+  'seoscanners',
+  'vebidoobot',
+  'XoviBot',
   );
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
