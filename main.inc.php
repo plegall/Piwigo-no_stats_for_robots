@@ -25,6 +25,21 @@ $bots = array(
   'VoilaBot',
   'MegaIndex',
   'MJ12bot',
+  'Mediapartners-Google',
+  'OpenSearchServer',
+  'MSNBot',
+  'ExaBot',
+  'MooveOnBot',
+  'gloObotBot',
+  'VerticrawlBot',
+  'TwengaBot',
+  'YacyBot',
+  'BingBot',
+  'Adidxbot',
+  'BingPreview',
+  'DuckDuckBot',
+  'AynidBot',
+  'Heritrix',
   );
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
