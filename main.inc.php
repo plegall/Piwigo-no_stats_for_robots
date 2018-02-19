@@ -53,6 +53,7 @@ $bots = array(
   'seoscanners',
   'vebidoobot',
   'XoviBot',
+  'BUbiNG',
   );
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
