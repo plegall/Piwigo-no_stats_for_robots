@@ -54,6 +54,8 @@ $bots = array(
   'vebidoobot',
   'XoviBot',
   'BUbiNG',
+  'MauiBot',
+  'The Knowledge AI',
   );
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
