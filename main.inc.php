@@ -56,6 +56,7 @@ $bots = array(
   'BUbiNG',
   'MauiBot',
   'The Knowledge AI',
+  'Seekport Crawler',
   );
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
