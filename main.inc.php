@@ -63,7 +63,7 @@ $bots = array(
 if (isset($_SERVER["HTTP_USER_AGENT"])
     and preg_match('/('.implode('|', $bots).')/', $_SERVER['HTTP_USER_AGENT']))
 {
-  add_event_handler('pwg_log_allowed', create_function('', 'return false;'));
-  add_event_handler('allow_increment_element_hit_count', create_function('$b', 'return false;'));
+  add_event_handler('pwg_log_allowed', function() {return false;});
+  add_event_handler('allow_increment_element_hit_count', function() {return false;});
 }
 ?>
