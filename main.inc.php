@@ -58,7 +58,8 @@ $bots = array(
   'The Knowledge AI',
   'Seekport Crawler',
   'bnf.fr_bot',
-  );
+  'kube-probe',
+);
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
     and preg_match('/('.implode('|', $bots).')/', $_SERVER['HTTP_USER_AGENT']))
